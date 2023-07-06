@@ -1,0 +1,31 @@
+/* Write your CSS here */
+
+.bg-container {
+  border-width: 10px;
+  background-color: #ffd569;
+  border-radius: 4px;
+  color: ;
+}
+
+.count-color {
+  color: #ffd569;
+}
+.mango-btn {
+  background-color: #007bff;
+  border-radius: 2px;
+  color: #ffffff;
+    cursor: point
+   outline: no
+}
+.img-props{
+    height: 30vh;
+    width: 30vh;
+}
+
+.banana-btn {
+  background-color: #007bff;
+  border-radius: 2px;
+  color: #ffffff;
+    cursor: point
+   outline: no
+}
